@@ -14,7 +14,7 @@ precure:
   # constants
   hash_tag: 'プリキュア版深夜の真剣お絵描き60分一本勝負'
   togetter: True
-  account: 'precure_1draw_3'
+  account: 'precure_1draw_2'
   rt_account: 'precure1draw_rt'
   theme_regex: '[“”''"](.+?)[“”''"]'
   start_time: '22:00'
