@@ -12,9 +12,9 @@ precure:
   # inside files
   update_date_que: 'precure/update_date_que.yaml'
   # constants
-  hash_tag: 'プリキュア版深夜の真剣お絵描き60分一本勝負'
+  hash_tag: '#プリキュア版深夜の真剣お絵描き・小説一本勝負'
   togetter: True
-  account: 'precure_1draw_2'
+  account: 'precure_1draw_3'
   rt_account: 'precure1draw_rt'
   theme_regex: '[“”''"](.+?)[“”''"]'
   start_time: '22:00'
